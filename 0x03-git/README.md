@@ -1,8 +1,8 @@
 # This is the 0x03. Git project.
 
-**There are 5 tasks and 2 advanced (optional) tasks in this project**
+**There are 5 tasks and 2 advanced (optional) tasks in this project.**
 
-## Manatory Tasks:
+## Mandatory Tasks:
 
 0. Create and setup your Git and GitHub account
 
